@@ -55,5 +55,5 @@ AtliQ grew quickly in electronics market but faced losses in Latin America after
 2.  Effective communication with stakeholders feedback and 
     management
 3.  Business and domain knowledge in sales,finance,marketing and 
-    supply chain.
+    supply chain
  
