@@ -8,9 +8,9 @@
 AtliQ grew quickly in electronics market but faced losses in Latin America after opening a store without enough market research. Meanwhile, their competitors like Dell have large data analytics teams and use data-driven decisions to grow. Now, AtliQ has hired data analysts to help make better business decisions.
 
 
-#### Live Dashboard      : https://app.powerbi.com/view?r=eyJrIjoiNGE4ODRjYTUtOWFkYS00YTZmLWFiNGMtN2ExYzNlMjc5NTAzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+#### Live Dashboard      : [Link](https://app.powerbi.com/view?r=eyJrIjoiNGE4ODRjYTUtOWFkYS00YTZmLWFiNGMtN2ExYzNlMjc5NTAzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-#### Presentation Video  : https://youtu.be/MDVOosgK7JU?si=aPayBGOHe-m_vCxR
+#### Presentation Video  : [Link](https://youtu.be/MDVOosgK7JU?si=aPayBGOHe-m_vCxR)
 
 
 ## Project Goal 
